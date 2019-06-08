@@ -22,7 +22,7 @@ cowsay -f eyes "6h0zF1r" | lolcat
 figlet -f slant "6h0zF1r" | lolcat
 echo "    <=====================[]====================>" | lolcat
 echo "    <=====[       Tools By 6h0zF1r       ]=====>" | lolcat
-echo  "    <=====[  Contact Me : +628817428667  ]=====>" | lolcat
+echo  "    <=====[                             ]=====>" | lolcat
 echo "    <=====================[]====================>" | lolcat
 
 sleep 1
